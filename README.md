@@ -1,4 +1,4 @@
-![alt text](arch.png)
+![alt text](photo/arch.png)
 
 ## Create RDS Database
 
